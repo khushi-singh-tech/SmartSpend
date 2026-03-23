@@ -63,12 +63,12 @@ public class SecurityConfig {
         return config.getAuthenticationManager();
     }
     
-    @Value("${frontend.url}")
-    private String frontendUrl;
+   
+    
     @Bean
     public CorsConfigurationSource corsConfigurationSource() {
         CorsConfiguration configuration = new CorsConfiguration();
-        configuration.setAllowedOrigins(List.of(frontendUrl));
+        configuration.setAllowedOrigins(List.of("https://smartspend-finance-management.netlify.app/login"));
         configuration.setAllowedMethods(Arrays.asList("GET", "POST", "PUT", "DELETE", "OPTIONS"));
         configuration.setAllowedHeaders(Arrays.asList("*"));
         configuration.setAllowCredentials(true);
