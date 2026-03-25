@@ -1,11 +1,10 @@
 💰 SmartSpend – AI-Powered Money Manager
 MoneyManager is a full-stack personal finance management application built with React + Spring Boot + MySQL. Track expenses, manage budgets, generate reports, and more with a professional UI.
 
-Live Link: 
+Live Link: https://smartspend-finance-management.netlify.app/
 
 ✨ Features
 Feature
-
 Status
 
 ✅ Transaction Management
@@ -59,7 +58,13 @@ Database:
 
 Screenshots :
 Register/login : <img width="720" height="752" alt="image" src="https://github.com/user-attachments/assets/9057d8eb-0fe9-4365-af33-9e506bcc78cc" />
-
+Dashboard : <img width="1899" height="916" alt="image" src="https://github.com/user-attachments/assets/8c83b7b7-ec78-4758-aeeb-48e07ec8d257" />
+Transaction List : <img width="1912" height="902" alt="image" src="https://github.com/user-attachments/assets/a2d52a7d-a942-4279-983e-15f46a32a7b3" />
+Transaction Filters : <img width="1357" height="704" alt="image" src="https://github.com/user-attachments/assets/ce45dd9b-6d88-447b-86d5-5ad0d2606e54" />
+Budgets : <img width="1419" height="797" alt="image" src="https://github.com/user-attachments/assets/2fd1a8f7-29b1-4762-89de-f59e46fe0b1f" />
+Monthly Reports : <img width="1393" height="842" alt="image" src="https://github.com/user-attachments/assets/75bda0a0-c9d1-44b0-a471-634174e107fc" />
+AI Prediction : <img width="1297" height="127" alt="image" src="https://github.com/user-attachments/assets/6ba305b2-464c-4f99-8b7e-e21a2ef4bbaf" />
+Mobile View : <img width="813" height="431" alt="image" src="https://github.com/user-attachments/assets/ef673a19-aaee-4c7c-ba98-8d41933fb81f" />
 
 
 🚀 Quick Start
